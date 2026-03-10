@@ -95,7 +95,8 @@ Rehecho: "Hola mundo"
 ## 📸 Capturas de pantalla
 
 > Agrega aquí las capturas después de ejecutar el programa.  
-> Puedes arrastrar las imágenes directamente al editor de GitHub.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/138dad67-a163-4576-b4f1-bf9e8211834e" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ee6bce69-5bf2-4bd4-a5f0-f0c0f83fc701" />
 
 ---
 
@@ -114,5 +115,5 @@ Rehecho: "Hola mundo"
 
 | Nombre | Rol |
 |--------|-----|
-| Tu Nombre Aquí | Desarrollador |
+| SANTIAGO LONDOÑO RUA | Desarrollador |
 
