@@ -115,5 +115,5 @@ Rehecho: "Hola mundo"
 
 | Nombre | Rol |
 |--------|-----|
-| SANTIAGO LONDOÑO RUA | Desarrollador |
+| LONDOÑO RUA SANTIAGO | Desarrollador |
 
